@@ -42,8 +42,7 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: RAKSHITHA DEVI J
 
 RegisterNumber: 212221230082 
-```
-```
+
 
 HALF ADDER
 
